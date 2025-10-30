@@ -208,4 +208,5 @@ __marimo__/
 
 # Other
 catboost_info/
-models/
+models/*
+!.gitkeep
