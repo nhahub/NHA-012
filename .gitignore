@@ -208,5 +208,6 @@ __marimo__/
 
 # Other
 catboost_info/
-models/*
+sales_forecasting_project/models/*
+sales_forecasting_project/mlruns/
 !.gitkeep
